@@ -1,0 +1,23 @@
+body, html {
+    height:85%;
+}
+
+.centered-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    text-shadow: 3px 2px 3px grey;
+    font-family: 'Amatic SC', cursive;
+    font-size: 3em;
+    padding: .2em;    
+}
+
+.centered-logo {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
